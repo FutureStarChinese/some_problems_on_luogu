@@ -1,0 +1,5 @@
+﻿  P1009.cpp
+D:\编程\P1009\P1009\P1009.cpp(29,23): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+D:\编程\P1009\P1009\P1009.cpp(30,5): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\编程\P1009\P1009\P1009.cpp(34,5): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  P1009.vcxproj -> D:\编程\P1009\x64\Debug\P1009.exe
